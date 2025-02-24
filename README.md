@@ -17,4 +17,4 @@ A beautifully designed and interactive login and signup page with smooth animati
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/creative-login-system.git
+   git clone https://github.com/Shem-koome/creative-login-system.git
